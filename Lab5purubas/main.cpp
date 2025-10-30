@@ -12,6 +12,6 @@ int main()
 	double resultado = soyUnaFigura->calculateArea();
 
 	std::cout <<"Hola, el area de un cuadrado de base 2 es de !\n";
-	std::count << resultado << std::endl;
+	std::cout << resultado << std::endl;
 	return 0;
 }
