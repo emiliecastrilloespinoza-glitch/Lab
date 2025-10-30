@@ -124,16 +124,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\programacion1-polimorfismo\PolimorfismoTest\Circle.cpp" />
     <ClCompile Include="..\..\..\..\Documents\programacion1-polimorfismo\PolimorfismoTest\Square.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\programacion1-polimorfismo\PolimorfismoTest\Triangle.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\programacion1-polimorfismo\PolimorfismoTest\Circle.h" />
     <ClInclude Include="..\..\..\..\Documents\programacion1-polimorfismo\PolimorfismoTest\Shape.h" />
     <ClInclude Include="..\..\..\..\Documents\programacion1-polimorfismo\PolimorfismoTest\Square.h" />
-    <ClInclude Include="..\..\..\..\Documents\programacion1-polimorfismo\PolimorfismoTest\Triangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
