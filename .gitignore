@@ -1,0 +1,48 @@
+# Compilados binarios y librerías
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.idb
+*.ilk
+
+# Archivos de depuración y logs
+*.log
+*.tlog
+*.tmp
+
+# Carpetas de compilación
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.vcxproj.user
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+
+# Configuración específica del IDE
+.vs/
+.vscode/
+
+# Archivos temporales del sistema
+Thumbs.db
+Desktop.ini
+
+# Archivos generados por CMake (si usas)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Archivos de respaldo o temporales
+*~
+*.bak
